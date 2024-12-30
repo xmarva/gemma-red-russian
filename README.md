@@ -1,9 +1,8 @@
 # 🛠️ Red Russian Gemma (WIP)
 
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-[![Red Russian Gemma - Notebook](https://img.shields.io/static/v1?label=FloorPlan+Detection&message=Notebook&color=2ea44f&logo=kaggle)](https://www.kaggle.com/code/qmarva/red-russian-gemma-lora-hf)
-
-![Red Russian Gemma](imgs/wandb.jpg)
+![Red Russian Gemma](imgs/wandb.png)
 
 ## Overview
 
